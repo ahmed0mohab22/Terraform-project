@@ -47,9 +47,9 @@ To achieve the project’s objectives, we will explore and implement the followi
 
 ## Load Balancers
 1.  Network Load Balancer (NLB):
-2.  ![Screenshot 2024-10-03 224439](https://github.com/user-attachments/assets/389aaca6-d210-4825-ad25-1b6780b44eb1)
+  ![Screenshot 2024-10-03 224439](https://github.com/user-attachments/assets/389aaca6-d210-4825-ad25-1b6780b44eb1)
 
-3.  Application Load Balancer (ALB):
+2.  Application Load Balancer (ALB):
 ![Screenshot 2024-10-03 224512](https://github.com/user-attachments/assets/6b1090af-bbc4-4cc1-9824-d9b3a4a003bf)
 
 
