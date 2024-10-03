@@ -1,6 +1,7 @@
 # Terraform-project
 This Terraform configuration creates a robust web app setup on AWS. It spreads EC2 instances across availability zones for reliability. Network Load Balancers (NLB) handle public traffic to NGINX proxies, while Application Load Balancers (ALB) route requests to private APACHE web servers. 
 
+![Screenshot 2024-10-04 002703](https://github.com/user-attachments/assets/5c676052-7bd2-43bd-8c96-f6a27d6157fd)
 
 ## Project Objective
 
