@@ -31,6 +31,10 @@ To achieve the project’s objectives, we will explore and implement the followi
 
 10-Load Balancer: Distributes incoming network traffic across multiple servers or resources to ensure high availability, improve application performance, and prevent overloading of individual servers.
 
+11-Application Load Balancer (ALB): Distributes incoming application traffic across multiple targets, such as EC2 instances, based on defined rules and supports advanced routing features.
+
+12-Amazon EC2 (Elastic Compute Cloud): Provides resizable compute capacity in the cloud, allowing you to run virtual servers (EC2 instances) for various applications, services, and workloads.
+
 ## VPC (Virtual Private Cloud)
 ![Screenshot 2024-10-03 224239](https://github.com/user-attachments/assets/34e2bc89-c4c4-42ee-82db-0438a7b26665)
 
@@ -38,7 +42,7 @@ To achieve the project’s objectives, we will explore and implement the followi
 
 
 
-![Screenshot 2024-10-03 224911](https://github.com/user-attachments/assets/e762e931-dc72-4cb8-a19f-f87b58ab99b2)
+
 
 
 ## Load Balancers
@@ -50,18 +54,16 @@ To achieve the project’s objectives, we will explore and implement the followi
 
 
 ## Remote bucket for statefile
+![Screenshot 2024-10-03 224911](https://github.com/user-attachments/assets/e762e931-dc72-4cb8-a19f-f87b58ab99b2)
 ![Screenshot 2024-10-03 224810](https://github.com/user-attachments/assets/f11cefad-f510-4586-809e-e5c914d12844)
 
 ## Terraform Apply Result
-![apply](https://github.com/user-attachments/assets/37a484bc-c0af-403c-a29a-d543bf409905)
+![Screenshot 2024-10-04 014055](https://github.com/user-attachments/assets/26de6dc6-2b94-457a-aa63-30d1d92b3f99)
+
 
 ## Accessing the DNS
 ![Screenshot 2024-10-03 223606](https://github.com/user-attachments/assets/f2ad6d30-9dc5-4d52-9af9-d9d3be42895a)
 ![Screenshot 2024-10-03 223748](https://github.com/user-attachments/assets/36a24c2b-2a3a-4d5b-aa4c-cc55287900af)
 
-## Terraform Destroy
-![de](https://github.com/user-attachments/assets/79436faa-b28e-4a29-a39e-dd1d6c9f2e51)
 
-11-Application Load Balancer (ALB): Distributes incoming application traffic across multiple targets, such as EC2 instances, based on defined rules and supports advanced routing features.
 
-12-Amazon EC2 (Elastic Compute Cloud): Provides resizable compute capacity in the cloud, allowing you to run virtual servers (EC2 instances) for various applications, services, and workloads.
