@@ -54,8 +54,11 @@ To achieve the project’s objectives, we will explore and implement the followi
 
 
 ## Remote bucket for statefile
-![Screenshot 2024-10-03 224911](https://github.com/user-attachments/assets/e762e931-dc72-4cb8-a19f-f87b58ab99b2)
 ![Screenshot 2024-10-03 224810](https://github.com/user-attachments/assets/f11cefad-f510-4586-809e-e5c914d12844)
+
+##DynamoDB State Locking
+
+![Screenshot 2024-10-03 224911](https://github.com/user-attachments/assets/e762e931-dc72-4cb8-a19f-f87b58ab99b2)
 
 ## Terraform Apply Result
 ![Screenshot 2024-10-04 014055](https://github.com/user-attachments/assets/26de6dc6-2b94-457a-aa63-30d1d92b3f99)
