@@ -31,6 +31,37 @@ To achieve the project’s objectives, we will explore and implement the followi
 
 10-Load Balancer: Distributes incoming network traffic across multiple servers or resources to ensure high availability, improve application performance, and prevent overloading of individual servers.
 
+## VPC (Virtual Private Cloud)
+![Screenshot 2024-10-03 223606](https://github.com/user-attachments/assets/f2ad6d30-9dc5-4d52-9af9-d9d3be42895a)
+![Screenshot 2024-10-03 223748](https://github.com/user-attachments/assets/36a24c2b-2a3a-4d5b-aa4c-cc55287900af)
+![Screenshot 2024-10-03 224239](https://github.com/user-attachments/assets/34e2bc89-c4c4-42ee-82db-0438a7b26665)
+![Screenshot 2024-10-03 224439](https://github.com/user-attachments/assets/389aaca6-d210-4825-ad25-1b6780b44eb1)
+![Screenshot 2024-10-03 224512](https://github.com/user-attachments/assets/6b1090af-bbc4-4cc1-9824-d9b3a4a003bf)
+![Screenshot 2024-10-03 224810](https://github.com/user-attachments/assets/f11cefad-f510-4586-809e-e5c914d12844)
+![Screenshot 2024-10-03 224911](https://github.com/user-attachments/assets/e762e931-dc72-4cb8-a19f-f87b58ab99b2)
+
+
+## Load Balancers
+1.  Network Load Balancer (NLB):
+   ![nlb](https://github.com/user-attachments/assets/225b1300-8fb5-4747-ac26-8db72a7b1426)
+2.  Application Load Balancer (ALB):
+   ![alb](https://github.com/user-attachments/assets/489c71cc-ac01-4dce-befa-fde2b966e67a)
+
+
+## Remote bucket for statefile
+
+![fstate](https://github.com/user-attachments/assets/e972273d-7a69-46c5-85ad-ebd9d51c648a)
+
+## Terraform Apply Result
+![apply](https://github.com/user-attachments/assets/37a484bc-c0af-403c-a29a-d543bf409905)
+
+## Accessing the DNS
+![1](https://github.com/user-attachments/assets/742b86fd-d10d-4603-a56e-2d29674be916)
+![2](https://github.com/user-attachments/assets/4c042bb9-926c-486c-93fa-6477164345a7)
+
+## Terraform Destroy
+![de](https://github.com/user-attachments/assets/79436faa-b28e-4a29-a39e-dd1d6c9f2e51)
+
 11-Application Load Balancer (ALB): Distributes incoming application traffic across multiple targets, such as EC2 instances, based on defined rules and supports advanced routing features.
 
 12-Amazon EC2 (Elastic Compute Cloud): Provides resizable compute capacity in the cloud, allowing you to run virtual servers (EC2 instances) for various applications, services, and workloads.
